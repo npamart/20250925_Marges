@@ -1,0 +1,276 @@
+---
+title: La Fabrique d'une femme illustre
+subtitle: Circulation et traduction des discours ninonniens entre 1750 et 1790
+footer: Centre(s), marges, relégation aux XVIIe et XVIIIe siècles
+format: revealjs
+theme: moon
+author:
+  name: Nolwenn PAMART
+  email: nolwenn.pamart@univ-rouen.fr
+institute: Chaire d'excellence en édition numérique - Université de Rouen <br> Chaire de recherche du Canada sur les écritures numériques - Université de Montréal
+date: 2025/09/25
+lang: fr
+slide-number: true
+scrollable : true 
+bibliography : /home/nolwenn-pamart/Documents/Presentations/20250925_Marges/Marges.bib
+csl: /home/nolwenn-pamart/Documents/Presentations/20250925_Marges/styleaix.csl
+
+---
+
+## Anne de Lenclos (1620-1705)
+
+::: {layout-ncol=2}
+![Georg Friedrich Schmidt, d'après Louis Elle, Ninon de Lenclos (c. 1737-1739)](./20250925_marges_files/ninon1.png) 
+
+![Thomas Worlidge, *Ninon de Lenclos from an original picture given by herself to the Countess of Sandwich and by the present Earl of Sandwich to Mr. Walpole*, 1757](./20250925_marges_files/ninon4.png)
+
+:::
+
+--- 
+
+## « Cette illustre personne » en 1672
+
+::: {.r-fit-text}
+> La jeune Marquise que vous connaissez, qui commençait à jouer si bien du luth, est au désespoir depuis quelques jours. Monsieur Gaultier qui lui montrait, lui avait assuré qu'elle __en jouerait dans peu de temps aussi bien que Mademoiselle de Lenclos__ : c'était beaucoup dire, mais il pouvait décider sur ces sortes de choses. Ce furent les dernières paroles que ce grand maître dit en jouant du luth, car en sortant de chez la jeune marquise, il tomba malade de la maladie dont il est mort. Elle n'eut pas plus tôt appris cette nouvelle, que ne voulant pas que son luth survécut à un si grand maître, elle le cassa en cent pièces, & résolut de n'en jouer jamais. Je ne vous dis rien de cette action, vous en jugerez. Mais si la mort de Monsieur Gaultier l'empêche de jouer jamais aussi bien du luth que Mademoiselle de Lenclos, elle devrait travailler à lui ressembler du côté de l'esprit, dont vous savez que cette __illustre personne__ a infiniment. » @donneaudeviseMercureGalant1672 p. 166-167.
+:::
+
+---
+
+## « La fameuse Mlle Lenclos » en 1725
+
+*Dialogue sur la musiques des anciens* de @chateauneufDialogueMusiqueAnciens1725
+
+![Clé manuscrite dans l'exemplaire de la BnF, V-25351](./20250925_marges_files/dialogue_focus.jpg)
+
+---
+
+## Plan
+
+I. Textes ou discours « ninonniens » ?   
+II. Liminaires
+III. Un texte composite : le cas de l'adaptation anglaise de 1761
+
+
+# I. Textes ou discours ninonniens ?{background-color="#40666e"}
+
+---
+
+## Un emballement éditorial au tournant des années 1750 
+
+![](./20250925_marges_files/zotero.png){fig-align="center"}
+
+---
+
+## Les Lettres de Ninon de Lenclos au marquis de Sévigné [Damours]
+
+::: {layout-ncol=2}
+
+
+::: {.r-stack}
+![Louis Damours, _Lettres de Ninon de Lenclos au marquis de Sévigné_, 1750](./20250925_marges_files/Damours1750.png)
+
+![](./20250925_marges_files/Damours1750_2.jpg){.fragment}
+
+![](./20250925_marges_files/Damours1750_3.png){.fragment}
+
+![](./20250925_marges_files/Damours1750_4.png){.fragment}
+
+![](./20250925_marges_files/Damours1750_5.png){.fragment}
+
+![](./20250925_marges_files/DamoursLeipzig1751.jpg){.fragment}
+
+![](./20250925_marges_files/Damours_anglais1751.png){.fragment}
+
+![](./20250925_marges_files/Damours_augmente.png){.fragment}
+:::
+
+* En 1750 : au moins 3 impressions et 5 pages de titres différentes
+* Traduit en **Allemand** et en **Anglais** en 1751
+* Réédité en 1752, dans une édition "revuë et augmentée", comptant 43 lettres supplémentaires 
+::: 
+
+---
+
+## Retouches manuscrites sur la page de titre
+
+::: {layout-ncol=2}
+
+![](./20250925_marges_files/Damours1750partie.png)
+
+![](./20250925_marges_files/Damours_augmente.png)
+
+:::
+
+## Les Mémoires sur la vie de Mademoiselle de Lenclos [Bret]
+
+::: {layout-ncol=2}
+
+![M. B****, Mémoires sur la vie de Mademoiselle de Lenclos, Amsterdam, Jean-Baptiste-Claude II Bauche et Jacques III Rollin, 1751](./20250925_marges_files/Bret1751.png)
+
+* De nombreuses réimpressions
+* Traduit en **Allemand** en 1754 
+* Un texte beaucoup plus stable
+* Fréquemment relié et/ou vendu avec les autres (notamment utilisé en introduction aux 2 volumes de lettres au marquis de Sévigné)
+
+::: 
+
+---
+
+## Mémoires et lettres pour servir à l'Histoire de la vie de Mademoiselle de Lenclos
+
+::: {layout-ncol=2}
+![M. B****, Mémoires sur la vie de Mademoiselle de Lenclos, Amsterdam, Jean-Baptiste-Claude II Bauche et Jacques III Rollin, 1751](./20250925_marges_files/Douxm%C3%A9nil1752.png)
+
+* Publication de la correspondance entre Anne de Lenclos et Saint-Évremond
+* Adapté (plus que traduit) en **Anglais** en 1761
+* Peu de réimpressions & rééditions en France
+::: 
+
+---
+
+### En 1797, « faire du Ninon » est devenu une consigne éditoriale
+
+
+::: {layout-ncol=2}
+![](./20250925_marges_files/etwas.png){fig-align="center"}
+
+> Pourrait-on en vouloir à un éditeur de rémunérer des auteurs pour lui faire du Ninon, en supposant qu'ils pourraient livrer quelque chose de proprement « ninnonien » ? 
+@segurGeheimerBriefwechselZwischen1797 
+:::
+
+# II. Liminaires {background-color="#40666e"}
+
+---
+
+* Les discours intitulants et préfaciels comme « des lieux investis d ’une mission spéciale auprès des discours romanesques » @zawiszaLageDorPeritexte2013
+* La « fiction légitimante » selon @hermanRomanVeritableStrategies2008
+
+--- 
+
+## Je vous envoye, Madame
+
+::: {.r-fit-text}
+> « Je vous envoye, Madame, les Lettres de feue Mademoiselle de Lenclos au marquis de Sévigné; & quelle que soit ma soumission à vos moindres volontés, je ne puis vous le dissimuler, ce n ’est pas sans effort que je me détermine à vous confier ce Recueil. Si vous faites attentions que c ’est l ’unique ouvrage qui nous reste d ’une femme, aussi célèbre par la supériorité de son génie, que par les charmes de sa personne, vous sentirez aisément combien l ’avantage d ’être le seul possesseur de ce Manuscrit augmente encore son prix à mes yeux : aussi comptai-je beaucoup sur la reconnaissance qu ’exige de vous un si grand sacrifice. » 
+:::
+
+@damoursLettresMademoiselleNinon1750
+
+---
+
+## La 1ère traduction allemande
+
+::: {layout-ncol=2}
+* Une commande éditoriale dans un contexte particulier : la recherche de modèles épistolaires pour la littérature germanophone
+* Associé à un autre texte de  @boursaultLettresRespectDobligation1669 
+* Ajout d'un avant-propos du traducteur
+
+![](./20250925_marges_files/DamoursLeipzig1751.jpg)
+:::
+
+---
+
+## La 1ère traduction allemande
+
+::: {layout-ncol=2}
+
+![](./20250925_marges_files/vorrede.png)
+
+![](./20250925_marges_files/envoi_all.png)
+
+:::
+
+---
+
+## La 1ère traduction anglaise  
+
+![](./20250925_marges_files/Damours_anglais1751.png){fig-align="center"}
+
+---
+
+## À M. Lant... de Damm....
+
+::: {.r-fit-text}
+> Vous êtes obéi, Monsieur, je donne enfin au Public ce que mes recherches ont pu m’apprendre de la célèbre Mademoiselle de Lenclos. Ce n’étoit pas simplement une femme galante que j’avais à peindre, comme peuvent se l’imaginer quelques gens, à qui le siècle dernier est absolument inconnu ; j’avais à faire le portrait d ’une femme inimitable en tout, qui voulut être homme aussitôt qu ’elle sut penser, & qui, sous le règne merveilleux de Louis XIV, fixa les yeux des adorateurs du mérite distingué.  
+Il s’agissoit de mettre le Public en état de connoître le cœur & l’esprit de Mademoiselle de Lenclos, & pour cela il étoit indécent de feindre. Ce n ’est point une apologie ; ce n’est point une satyre, & moins encore un Roman, que j’ai eu dessein d’écrire. Je bien besoin, Monsieur, qu’on se souvienne que je ne donne cet Ouvrage que comme des Mémoires pour servir à une histoire plus étendue de mon Héroïne.
+:::
+
+@bretMemoiresVieMademoiselle1751
+
+---
+
+## Vous m’avez demandé, belle Eugénie
+
+> Vous m ’avez demandé, belle Eugénie, l ’Histoire de Mlle de Lenclos, & j ’ai eu l’imprudence de vous la promettre. @douxmenilMemoiresLettresPour1751
+
+![](./20250925_marges_files/evremond.png){fig-align="center"}
+
+---
+
+::: {.r-fit-text}
+> Dans le même temps que M. Bret a donné ses Mémoires sur la vie de Mademoiselle de Lenclos, on a vu paraître une autre brochure sous le titre de Mémoires et Lettres pour servir à l'histoire de Mademoiselle de Lenclos. Cet ouvrage est d'un homme d'esprit et de bonne compagnie, quoique savant. Il l'a fait à la sollicitation d'un Prestolet famélique, à qui M. Bret avait montré son manuscrit plus de six mois auparavant. Si l'Auteur de la seconde histoire, connu pour un très-galant homme, eût su que M. Bret en avait une toute faite, il ne se serait certainement pas donné la peine d'écrire sur le même sujet. Traditeur, pour grossir le Volume, y a inséré les Lettres de Ninon et de Saint-Évremond, tant de fois imprimées dans les Œuvres de ce dernier. Il ne nous a pas fait grâce non plus du moindre petit bout de vers où il est question de Mademoiselle de Lenclos ; en sorte que ces additions occupent les deux tiers de la brochure. A l'égard de l'historique, il est sans art, sans ordre et sans suite. Les Anecdotes sont jetées au hasard, et fréquemment coupées par de longues tirades de poésies ou de prose. Il n'y a que le style qui m'a paru plus naturel et plus facile que celui du premier Biographe. Malgré cet avantage, on a généralement donné la préférence aux Mémoires de M. Bret, parce qu'il y a plus de faits et qu'ils sont mieux liés.
+:::
+@freronLettre1752
+
+# III. Un texte composite : l'adaptation anglaise de 1761{background-color="#40666e"}
+
+---
+
+## [1761] Collected and Translated from the French by a Lady 
+
+::: {layout-ncol=2}
+
+::: {.r-stack}
+![](./20250925_marges_files/angl1.png)
+
+![](./20250925_marges_files/angl2.png){.fragment}
+
+![](./20250925_marges_files/angl3){.fragment}
+
+![](./20250925_marges_files/angl4.png){.fragment}
+
+![](./20250925_marges_files/angl5){.fragment}
+
+![](./20250925_marges_files/angl6.png){.fragment}
+
+![](./20250925_marges_files/angl7.png){.fragment}
+
+![](./20250925_marges_files/angl8.png){.fragment}
+
+![](./20250925_marges_files/angl9.png){.fragment}
+
+![](./20250925_marges_files/angl10.png){.fragment}
+
+![](./20250925_marges_files/angl11.png){.fragment}
+
+![](./20250925_marges_files/angl12.png){.fragment}
+
+![](./20250925_marges_files/angl13.png){.fragment}
+
+![](./20250925_marges_files/angl14.png){.fragment}
+:::
+
+::: {.r-fit-text}
+* Envoi à la duchesse de Bedford (iii-vi)
+* À ***** (vii)
+* L'Introduction (ix-xii)
+* Lettres entre Ninon et Saint-Évremond (1-43)
+* Le Traducteur au lecteur* (44-50)
+* Vie et caractère de Ninon de Lenclos (51-111)
+* Le Traducteur au lecteur (112-158) contenant Un Essai sur la traduction classique & un Dialogue entre Ninon de Lenclos et Madame de Maintenon
+* Lettres de Ninon de Lenclos au marquis de Sévigné (158-fin du volume, et 3-239)
+* Le Traducteur au lecteur (240-247)
+:::
+
+::: 
+
+---
+
+## Ninon, (super)production éditoriale{background-color="#40666e"}
+
+![](./20250925_marges_files/triopiqueur.jpg){fig-align="center"}
+
+# Merci ! 
+
+---
+
+## Bibliographie
